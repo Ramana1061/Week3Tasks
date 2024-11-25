@@ -1,17 +1,4 @@
-# HMI Simulation System
- 
-This project implements a Human-Machine Interface (HMI) simulation system in C++. The system includes a menu navigation system, a vehicle data display, an event handling system for touchscreen input, and a skin customization feature. Each component is designed to simulate functionalities commonly found in automotive HMI clusters.
- 
-## Table of Contents
- 
-- [Objectives](#objectives)
-- [Tasks](#tasks)
-- [Requirements](#requirements)
-- [Usage](#usage)
-- [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
- 
+
 ## Objectives
  
 The primary objectives of this project are:
